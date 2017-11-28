@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://easyappointments.org/"/>
-  <updated>2017-05-30T07:26:06.840Z</updated>
+  <updated>2017-11-28T08:42:50.994Z</updated>
   <id>http://easyappointments.org/</id>
   
   <author>
@@ -14,6 +14,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Tutorial: How to install Easy!Appointments Booking System on Mac OS X</title>
+    <link href="http://easyappointments.org/2017/11/28/Tutorial-How-to-install-EasyAppointments-Booking-System-on-Mac-OS-X/"/>
+    <id>http://easyappointments.org/2017/11/28/Tutorial-How-to-install-EasyAppointments-Booking-System-on-Mac-OS-X/</id>
+    <published>2017-11-28T08:30:26.000Z</published>
+    <updated>2017-11-28T08:42:50.994Z</updated>
+    
+    <content type="html"><![CDATA[<p>Learn how to install Easy!Appointments locally on your Mac OS X environment with this wonderful tutorial made by Angel Plaza. </p>
+<iframe width="750" height="421" src="https://www.youtube.com/embed/VDsgLZDMNfM?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<p>Although the installation of Easy!Appointments is a very trivial task for web developers, beginners and non technical users will have hard times setting this up as every web application requires an HTTP server and database service installed. </p>
+<p>Having a local testing &amp; evaluation environment is really important in order to be able to perform tasks that will not affect production data. </p>
+<p>Developers can also customize their builds and add new functionality before going live. </p>
+<p><a href="https://www.mamp.info/en/" target="_blank" rel="external">MAMP</a> installs a local server environment in a matter of seconds on your computer. It comes free of charge, and is easily installed. </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Learn how to install Easy!Appointments locally on your Mac OS X environment with this wonderful tutorial made by Angel Plaza. &lt;/p&gt;
+&lt;ifram
+    
+    </summary>
+    
+      <category term="Tutorial" scheme="http://easyappointments.org/categories/Tutorial/"/>
+    
+    
+      <category term="YouTube" scheme="http://easyappointments.org/tags/YouTube/"/>
+    
+      <category term="Installation" scheme="http://easyappointments.org/tags/Installation/"/>
+    
+  </entry>
   
   <entry>
     <title>A Quick Look at the First Android Client Screenshots</title>

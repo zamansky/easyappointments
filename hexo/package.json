@@ -18,7 +18,7 @@
     "hexo-server": "^0.2.0"
   },
   "scripts": {
-    "dev": "hexo serve",
+    "start": "hexo serve",
     "build": "hexo generate"
   }
 }
