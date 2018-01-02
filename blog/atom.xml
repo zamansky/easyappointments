@@ -66,6 +66,44 @@
   </entry>
   
   <entry>
+    <title>Update on Android Client Progress</title>
+    <link href="http://easyappointments.org/2017/12/23/Update-on-Android-Client-Progress/"/>
+    <id>http://easyappointments.org/2017/12/23/Update-on-Android-Client-Progress/</id>
+    <published>2017-12-23T16:37:16.000Z</published>
+    <updated>2018-01-02T14:06:53.593Z</updated>
+    
+    <content type="html"><![CDATA[<p>Lately there were some changes in the development team of the Easy!Appointments Android Client. Matteo Venturi, the original creator of the project had to step aside from active development due to other professional obligations, but will still support the development of the client. </p>
+<p>Gladly new contributors show interest in helping with the project and will support the completion of the app. Here are the team members (till the time of writing):  </p>
+<ul>
+<li>Matteo Venturi (Italy)</li>
+<li>Mario Blokland (Germany)</li>
+<li>Donovan Carowak (Netherlands)</li>
+<li>Bradley Hounkpatin (Balin)</li>
+<li>Shaikh (India)</li>
+<li>Alex Tselegidis (Greece)</li>
+</ul>
+<p>The project will still be developed and will be delivered as planned in the future. The new GitHub repository can be found in the following URL: </p>
+<p><a href="https://github.com/alextselegidis/easyappointments-android-client" target="_blank" rel="external">https://github.com/alextselegidis/easyappointments-android-client</a></p>
+<p>The client will make use of the latest Android SDK and furthermore the latest development tools and libraries for better performance and user experience. </p>
+<p>We are still in search of Android experts so feel free to contact <a href="mailto:alextselegidis@gmail.com" target="_blank" rel="external">alextslegidis@gmail.com</a> for further information. </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Lately there were some changes in the development team of the Easy!Appointments Android Client. Matteo Venturi, the original creator of t
+    
+    </summary>
+    
+      <category term="Announcements" scheme="http://easyappointments.org/categories/Announcements/"/>
+    
+    
+      <category term="Android" scheme="http://easyappointments.org/tags/Android/"/>
+    
+      <category term="REST API" scheme="http://easyappointments.org/tags/REST-API/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Tutorial: How to install Easy!Appointments Booking System on Mac OS X</title>
     <link href="http://easyappointments.org/2017/11/28/Tutorial-How-to-install-EasyAppointments-Booking-System-on-Mac-OS-X/"/>
     <id>http://easyappointments.org/2017/11/28/Tutorial-How-to-install-EasyAppointments-Booking-System-on-Mac-OS-X/</id>
