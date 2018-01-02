@@ -23,6 +23,7 @@ Matteo Venturi, a developer based in Italy has started a new project for the imp
 
 As there's still much work to be done we kindly ask developers and any other kind of experts to help with the implementation of the client. 
 
-Feel free to contact directly [alextselegidis@gmail.com](mailto:alextselegidis@gmail.com) or [matteo.venturi7@gmail.com](mailto:matteo.venturi7@gmail.com) for further information. 
+Feel free to contact directly [alextselegidis@gmail.com](mailto:alextselegidis@gmail.com) for further information. 
  
-Fork and star the project's [GitHub repository](https://github.com/matteoventuri7/android-easyappointments). 
+Fork and star the project's [GitHub repository](https://github.com/alextselegidis/easyappointments-android-client). 
+ 
