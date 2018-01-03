@@ -21,11 +21,17 @@ After months of development the new release is coming closer and closer to compl
 - [#176](https://github.com/alextselegidis/easyappointments/issues/176): Add Docker container for Easy!Appointments development.
 - [#362](https://github.com/alextselegidis/easyappointments/issues/362): Add Arabic language translation.
 - [#395](https://github.com/alextselegidis/easyappointments/issues/395): Add aggregates GET parameter in the appointments REST API resource.
+- [#397](https://github.com/alextselegidis/easyappointments/issues/397): Allow PHP v7.1 compatibility.
+- [#398](https://github.com/alextselegidis/easyappointments/issues/398): Send ICS files with customer/provider email confirmations.
+- [#399](https://github.com/alextselegidis/easyappointments/issues/399): Integrate cache busting for assets into the app.
+- [#402](https://github.com/alextselegidis/easyappointments/issues/402): Create simple "update" page.
 
 ### Changed 
 
 - [#276](https://github.com/alextselegidis/easyappointments/issues/276): Update FullCalendar dependency.
 - [#394](https://github.com/alextselegidis/easyappointments/issues/394): Corrections in the Bootstrap classes in view files.
+- [#401](https://github.com/alextselegidis/easyappointments/issues/401): Replace loading spinner graphic with a newer one.
+- [#403](https://github.com/alextselegidis/easyappointments/issues/403): All calendars will start with Sunday as the first day.
 
 ### Fixed
 
@@ -37,6 +43,10 @@ After months of development the new release is coming closer and closer to compl
 - [#337](https://github.com/alextselegidis/easyappointments/issues/337): Full day appointment with multiple attendants are not being taken into concern during availabilities generation.
 - [#342](https://github.com/alextselegidis/easyappointments/issues/342): Email notifications must honor the date format value.
 - [#370](https://github.com/alextselegidis/easyappointments/issues/370): AJAX Error: SyntaxError: Unexpected token < in JSON at position 0
+
+### Removed
+
+- [#400](https://github.com/alextselegidis/easyappointments/issues/400): Remove jscrollpane dependency.
 
 ### Deprecated
 
