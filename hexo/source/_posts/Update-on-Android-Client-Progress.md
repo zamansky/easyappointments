@@ -12,7 +12,7 @@ share_cover: /blog/2017/05/17/Android-Client-in-the-Works-Call-for-Contributors/
  
 Lately there were some changes in the development team of the Easy!Appointments Android Client. Matteo Venturi, the original creator of the project had to step aside from active development due to other professional obligations, but will still support the development of the client. 
  
-Gladly new contributors show interest in helping with the project and will support the completion of the app. Here are the team members (till the time of writing):  
+Gladly new contributors showed interest in helping with the project and will support the completion of the mobile app. Here are the team members (at the time of writing):  
   
  - Matteo Venturi (Italy)
  - Mario Blokland (Germany)
