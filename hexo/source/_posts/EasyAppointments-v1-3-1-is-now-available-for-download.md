@@ -7,7 +7,7 @@ tags:
   - Major
   - Release
 date: 2018-06-03 18:03:53
-share_cover: /blog/2018/03/17/EasyAppointments-v1-3-1-is-now-available-for-download/easyappointments-release-1.3.1.png
+share_cover: /blog/2018/06/03/EasyAppointments-v1-3-1-is-now-available-for-download/easyappointments-release-1.3.1.png
 ---
 
 A new version is available for download, with many fixes and improvements. 
