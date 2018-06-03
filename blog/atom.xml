@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://easyappointments.org/"/>
-  <updated>2018-03-17T17:11:03.169Z</updated>
+  <updated>2018-06-03T14:37:29.696Z</updated>
   <id>http://easyappointments.org/</id>
   
   <author>
@@ -14,6 +14,55 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Easy!Appointments v1.3.1 is available for download!</title>
+    <link href="http://easyappointments.org/2018/06/03/EasyAppointments-v1-3-1-is-now-available-for-download/"/>
+    <id>http://easyappointments.org/2018/06/03/EasyAppointments-v1-3-1-is-now-available-for-download/</id>
+    <published>2018-06-03T16:03:53.000Z</published>
+    <updated>2018-06-03T14:37:29.696Z</updated>
+    
+    <content type="html"><![CDATA[<p>A new version is available for download, with many fixes and improvements. </p>
+<h2 id="CHANGELOG-1-3-1"><a href="#CHANGELOG-1-3-1" class="headerlink" title="CHANGELOG [1.3.1]"></a>CHANGELOG [1.3.1]</h2><h3 id="Added"><a href="#Added" class="headerlink" title="Added"></a>Added</h3><ul>
+<li>#410: Time format from American style to European</li>
+<li>#441: Added time format selection</li>
+<li>#452: Provide more information when errors occur during the installation. </li>
+</ul>
+<h2 id="Changed"><a href="#Changed" class="headerlink" title="Changed"></a>Changed</h2><ul>
+<li>#494: French translation corrections/improvements.</li>
+</ul>
+<h2 id="Fixed"><a href="#Fixed" class="headerlink" title="Fixed"></a>Fixed</h2><ul>
+<li>#433: Selected date when editing an appointment</li>
+<li>#436: All days unavailable in agendaDay view</li>
+<li>#438: Error on update process from 1.2.1 to 1.3.0</li>
+<li>#440: Correct label text for customer phone number in back-end calendar event popup.</li>
+<li>#453: Unavailable periods not taken into account when more than one customer</li>
+<li>#455: French Spelling</li>
+<li>#459: Aggregate Appointment API crashes when a break was added</li>
+<li>#461: Invalid working plan parsing for foreign languages on day view of the default calendar view.</li>
+<li>#475: Booking page date selection is broken with any_provider option selected.</li>
+<li>#483: In backend, calendar for providers become unselectable if switched to calendar for service.</li>
+<li>#491: Replace hardcoded string with translation in appointment details email template.</li>
+<li>#495: Database migration fixes (from 1.2.1 to 1.3.x).</li>
+<li>#497: Backend settings are not being displayed on page load when the user is not an admin. </li>
+</ul>
+<center><br><img src="easyappointments-release-1.3.1.png" alt=""><br></center> ]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;A new version is available for download, with many fixes and improvements. &lt;/p&gt;
+&lt;h2 id=&quot;CHANGELOG-1-3-1&quot;&gt;&lt;a href=&quot;#CHANGELOG-1-3-1&quot; class
+    
+    </summary>
+    
+      <category term="Announcements" scheme="http://easyappointments.org/categories/Announcements/"/>
+    
+    
+      <category term="Release" scheme="http://easyappointments.org/tags/Release/"/>
+    
+      <category term="Major" scheme="http://easyappointments.org/tags/Major/"/>
+    
+  </entry>
   
   <entry>
     <title>Easy!Appointments v1.3.0 is available for download!</title>
