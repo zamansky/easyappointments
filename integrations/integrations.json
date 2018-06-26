@@ -2,10 +2,10 @@
   "easyappointments": [
     {
       "current": true,
-      "title": "Easy!Appointments v1.2.1",
+      "title": "Easy!Appointments v1.3.1",
       "description": "Open Source Appointment Scheduler",
       "version": "1.2.1",
-      "url": "https://github.com/alextselegidis/easyappointments/releases/download/1.2.1/easyappointments_1.2.1.zip"
+      "url": "https://github.com/alextselegidis/easyappointments/releases/download/1.3.1/easyappointments_1.3.1.zip"
     }
   ],
   "wordpress": [
