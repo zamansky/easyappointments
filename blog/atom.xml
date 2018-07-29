@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://easyappointments.org/"/>
-  <updated>2018-06-03T14:51:24.575Z</updated>
+  <updated>2018-07-29T14:35:01.838Z</updated>
   <id>http://easyappointments.org/</id>
   
   <author>
@@ -14,6 +14,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Easy!Appointments v1.3.2 is available for download!</title>
+    <link href="http://easyappointments.org/2018/07/29/EasyAppointments-v1-3-2-is-now-available-for-download/"/>
+    <id>http://easyappointments.org/2018/07/29/EasyAppointments-v1-3-2-is-now-available-for-download/</id>
+    <published>2018-07-29T14:34:52.000Z</published>
+    <updated>2018-07-29T14:35:01.838Z</updated>
+    
+    <content type="html"><![CDATA[<p>A new version is available for download, with many fixes and improvements. </p>
+<h2 id="CHANGELOG-1-3-2"><a href="#CHANGELOG-1-3-2" class="headerlink" title="CHANGELOG [1.3.2]"></a>CHANGELOG [1.3.2]</h2><h2 id="Fixed"><a href="#Fixed" class="headerlink" title="Fixed"></a>Fixed</h2><ul>
+<li>#480: Make the app GDPR - new EU privacy regulations compliant.</li>
+<li>#485: Make REST API search check with “q” parameter case insensitive. </li>
+<li>#489: REST API response headers must use the Content-Type application/json value.</li>
+<li>#500: Performance optimization in backend calendar page, after the user clicks the insert appointment button.</li>
+<li>#510: Providers should not be able to create appointments for other providers in the backend calendar page.</li>
+<li>#512: Only show appointments of the currently logged in provider.</li>
+</ul>
+<center><br><img src="easyappointments-release-1.3.2.png" alt=""><br></center> ]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;A new version is available for download, with many fixes and improvements. &lt;/p&gt;
+&lt;h2 id=&quot;CHANGELOG-1-3-2&quot;&gt;&lt;a href=&quot;#CHANGELOG-1-3-2&quot; class
+    
+    </summary>
+    
+      <category term="Announcements" scheme="http://easyappointments.org/categories/Announcements/"/>
+    
+    
+      <category term="Release" scheme="http://easyappointments.org/tags/Release/"/>
+    
+      <category term="Major" scheme="http://easyappointments.org/tags/Major/"/>
+    
+  </entry>
   
   <entry>
     <title>Easy!Appointments v1.3.1 is available for download!</title>
