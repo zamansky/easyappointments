@@ -15,6 +15,9 @@
             <h2>$email_title</h2>
             <p>$email_message</p>
 
+	    <h2>Appointment Location</h2>
+	    <h3>$location</h3>
+	    
             <h2>Appointment Details</h2>
             <table id="appointment-details">
                 <tr>
