@@ -132,8 +132,12 @@
                         <label for="service-attendants-number"><?= lang('attendants_number') ?> *</label>
                         <input id="service-attendants-number" class="form-control required" type="number" min="1">
                     </div>
-
                     <div class="form-group">
+                        <label for="service-location"><?= lang('service_location') ?></label>
+                        <textarea id="service-location" rows="4" class="form-control"></textarea>
+                    </div>
+
+<div class="form-group">
                         <label for="service-description"><?= lang('description') ?></label>
                         <textarea id="service-description" rows="4" class="form-control"></textarea>
                     </div>
