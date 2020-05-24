@@ -118,6 +118,7 @@
             var service = {
                 name: $('#service-name').val(),
                 duration: $('#service-duration').val(),
+                location: $('#service-location').val(),
                 price: $('#service-price').val(),
                 currency: $('#service-currency').val(),
                 description: $('#service-description').val(),
@@ -285,6 +286,7 @@
         $('#service-id').val(service.id);
         $('#service-name').val(service.name);
         $('#service-duration').val(service.duration);
+        $('#service-location').val(service.location);
         $('#service-price').val(service.price);
         $('#service-currency').val(service.currency);
         $('#service-description').val(service.description);
