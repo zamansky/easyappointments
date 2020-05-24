@@ -1,4 +1,8 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed');
+// English MZ
+$lang['service_location'] = 'Location';
+$lang['availabilities_type'] = 'Availabilities Type';
+
 // English
 $lang['page_title'] = 'Book Appointment With';
 $lang['step_one_title'] = 'Select Service & Provider';
