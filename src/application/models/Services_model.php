@@ -205,6 +205,7 @@ class Services_Model extends CI_Model {
         $result = $this->db->get_where('ea_services', [
             'name' => $service['name'],
             'duration' => $service['duration'],
+	    'location' => $service['location'],
             'price' => $service['price']
         ]);
 
